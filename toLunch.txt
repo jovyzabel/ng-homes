@@ -1,0 +1,2 @@
+cmd for lunching my fake db.json database:
+--> json-server --watch db.json
